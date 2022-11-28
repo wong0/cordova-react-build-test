@@ -1,4 +1,4 @@
-# Cordova React Example
+# Cordova React Build test
 
 ## Steps
 
